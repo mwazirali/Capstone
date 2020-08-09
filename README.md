@@ -1,2 +1,2 @@
 # Capstone
-Deep Learning Modeling on TPUs
+Deep Learning Modeling on TPUs to Classify Flowers
